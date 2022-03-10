@@ -1,6 +1,6 @@
 # input_kedua
 
-Input Menggunakan controller: _controller,
+Input Menggunakan TextEditingController
 
 ## Getting Started
 
