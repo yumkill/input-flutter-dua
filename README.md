@@ -1,6 +1,6 @@
 # input_kedua
 
-A new Flutter project.
+Input Menggunakan controller: _controller,
 
 ## Getting Started
 
